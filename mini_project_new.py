@@ -295,7 +295,7 @@ class encrypt(Frame):
 
 class MainMenu:
     def __init__(self, master):
-        master.iconbitmap('sastra.ico')
+       # master.iconbitmap('sastra.ico')
         master.geometry("760x480+100+100")
         
    
